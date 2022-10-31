@@ -1,6 +1,8 @@
 Hi 👋 My name is OMANX
 ======================
 
+https://discord.c99.nl/widget/theme-1/927236217328775208.png
+
 * 🌍  I'm based in Oman
 * ✉️  You can contact me at [emailomanx@gmail.com](mailto:emailomanx@gmail.com)
 * 🧠  I'm learning C#
