@@ -1,7 +1,7 @@
 Hi 👋 My name is OMANX
 ======================
+[![smmx.me#0001](https://discord.c99.nl/widget/theme-1/927236217328775208.png)](https://discord.c99.nl/)
 
-https://discord.c99.nl/widget/theme-1/927236217328775208.png
 
 * 🌍  I'm based in Oman
 * ✉️  You can contact me at [emailomanx@gmail.com](mailto:emailomanx@gmail.com)
